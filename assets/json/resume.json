@@ -1,36 +1,37 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Evert Lammerts",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "evert@bottledbits.com",
+    "phone": "+31 644034934",
+    "url": "https://evertlammerts.github.io/",
+    "summary": "Curious, hardworking, and dedicated to solving complex problems. I hold a BEng in Software Engineering
+    since 2006. A significant part of the 18+ years as a professional took place in and around labs, supporting,
+    using and occasionally conducting research. But I also spent as much time working in both big and smaller tech,
+    where I designed and built products and services with sometimes broad and other times deep impact, or both
+    at the same time. I feel at home working on distributed systems, large-scale computing and data processing
+    infrastructures, cryptosystems, and mechatronics.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Amsterdam",
+      "countryCode": "NL",
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Uber",
+      "position": "Engineering Manager",
+      "url": "https://www.uber.com/be/en/careers/locations/amsterdam/",
+      "startDate": "Oct 2021",
+      "endDate": "Mar 2024",
+      "summary": "Manager of the Earnings Data Intelligence team. This team of talented backend engineers is responsible
+      for building and running the systems that power several critical earnings-related features for Uber's earners,
+      i.e. drivers and couriers. Important features include real-time trip earnings summaries and historical earnings reports,
+      but also highly localized earnings forecasts generated using large-scale machine learning pipelines. At the core of the
+      data is a complex taxonomy that models earnings specific to all of the 70+ markets that Uber operates in, allowing Uber
+      and its earners to comply with all rules and regulations specific to the earners locality."
+      "highlights": ["Engineering management", "Complex taxonomies", "Mission critical real-time features", "Machine Learning"]
     }
   ],
   "volunteer": [
