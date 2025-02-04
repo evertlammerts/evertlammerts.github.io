@@ -1,20 +1,15 @@
 {
   "basics": {
     "name": "Evert Lammerts",
-    "label": "Software Engineer",
+    "label": "Software Engineering Leadership",
     "image": "",
     "email": "evert@bottledbits.com",
     "phone": "+31 644034934",
     "url": "https://evertlammerts.github.io/",
-    "summary": "Curious, hardworking, and dedicated to solving complex problems. I hold a BEng in Software Engineering
-    since 2006. A significant part of the 18+ years as a professional took place in and around labs, supporting,
-    using and occasionally conducting research. But I also spent as much time working in both big and smaller tech,
-    where I designed and built products and services with sometimes broad and other times deep impact, or both
-    at the same time. I feel at home working on distributed systems, large-scale computing and data processing
-    infrastructures, cryptosystems, and mechatronics.",
+    "summary": "Curious, hardworking, and dedicated to solving complex problems. I hold a BEng in Software Engineering since 2006. A significant part of the 18+ years as a professional took place in and around labs, supporting, using and occasionally conducting research. But I also spent as much time working in both big and smaller tech, where I designed and built products and services with sometimes broad and other times deep impact, or both at the same time. I feel at home working on distributed systems, large-scale computing and data processing infrastructures, cryptosystems, and mechatronics.",
     "location": {
       "city": "Amsterdam",
-      "countryCode": "NL",
+      "countryCode": "NL"
     },
     "profiles": []
   },
@@ -23,15 +18,77 @@
       "name": "Uber",
       "position": "Engineering Manager",
       "url": "https://www.uber.com/be/en/careers/locations/amsterdam/",
-      "startDate": "Oct 2021",
-      "endDate": "Mar 2024",
-      "summary": "Manager of the Earnings Data Intelligence team. This team of talented backend engineers is responsible
-      for building and running the systems that power several critical earnings-related features for Uber's earners,
-      i.e. drivers and couriers. Important features include real-time trip earnings summaries and historical earnings reports,
-      but also highly localized earnings forecasts generated using large-scale machine learning pipelines. At the core of the
-      data is a complex taxonomy that models earnings specific to all of the 70+ markets that Uber operates in, allowing Uber
-      and its earners to comply with all rules and regulations specific to the earners locality."
+      "startDate": "2021 Oct",
+      "endDate": "2024 Mar",
+      "summary": "I was manager of the Earnings Data Intelligence team, which is a team of talented backend engineers that is responsible for building and running the systems that power several critical earnings-related features for Uber's earners, i.e. drivers and couriers. Important features include real-time trip earnings summaries and historical earnings reports, but also highly localized earnings forecasts generated using large-scale machine learning pipelines. At the core of the data is a complex taxonomy that models earnings specific to all of the 70+ markets that Uber operates in, allowing Uber and its earners to comply with all rules and regulations specific to the earners locality. As engineering manager I was responsible for all aspects of this team's health, from the psychological safety and personal growth of its members to the team's vision, mission and execution, both tactical and strategical.",
       "highlights": ["Engineering management", "Complex taxonomies", "Mission critical real-time features", "Machine Learning"]
+    },
+    {
+      "name": "Uber",
+      "position": "Software Engineer",
+      "url": "https://www.uber.com/be/en/careers/locations/amsterdam/",
+      "startDate": "2018 Jul",
+      "endDate": "2021 Oct",
+      "summary": "I was a senior / lead engineer on the Tokenizer team, a small team of ~5 backend engineers and ~4 devops engineers, on its own little hyper secure island. We designed, built and ran Tokenizer, Uber's bank card vault, which held 100s of millions of card numbers, bank account numbers and other tier 1 sensitive PII like SSNs. Tokenizer was (and to my knowledge, still is) on the critical path for both collections (from riders and eaters) and disbursements (to drivers and couriers). Given the very large scale of card processing at Uber, Tokenizer contributed huge savings by not depending on third party vaults and by allowing integrations with many different local card processors and banks around the world, without trading off stability, availability and security (Tokenizer is, of course, PCI compliant and as such is extensively audited every year). I worked on many features of the system over the years, both lower-level system features - e.g. desiging the integration with Uber's service authentication and authorization, making it much easier for upstream systems to use Tokenizer - and higher-level user-facing features - e.g. enabling seamless wallet migration of users' wallets when Uber acquired Postmates.",
+      "highlights": ["PCI compliance", "Cyber security", "Payments"]
+    },
+    {
+      "name": "Lucipher",
+      "position": "Co-founder",
+      "startDate": "2013 Mar",
+      "endDate": "2016 Feb",
+      "summary": "",
+      "highlights": ["Cyber Security", "File Systems", "OpenPGP", "Big Data"]
+    },
+    {
+      "name": "Bottledbits",
+      "position": "Freelance [Engineer | Consultant | TPM]",
+      "startDate": "2013 Mar",
+      "endDate": "2018 Jul",
+      "summary": "",
+      "highlights": ["Cyber Security", "Big Data", "Intrusion Detection", "Open Gov Data"]
+    },
+    {
+      "name": "SARA / SURFSara / SURF",
+      "position": "Freelance [Engineer | Consultant | TPM]",
+      "startDate": "2008 Oct",
+      "endDate": "2013 Mar",
+      "summary": "",
+      "highlights": ["HPC", "Supercomputing", "Hadoop", "Big Data", "Science"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Semanticizer",
+      "summary": "",
+      "highlights": ["Named Entity Recognition", "NLP", "Machine Learning"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Amsterdam AuthZ",
+      "summary": "",
+      "highlights": ["Named Entity Recognition", "NLP", "Machine Learning"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://amsterdam.github.io/projects/authz/"
+    },
+    {
+      "name": "ING Intrusion Detection",
+      "summary": "",
+      "highlights": ["Named Entity Recognition", "NLP", "Machine Learning"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    },
+    {
+      "name": "LifeWatch.eu",
+      "summary": "",
+      "highlights": ["Named Entity Recognition", "NLP", "Machine Learning"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
     }
   ],
   "volunteer": [
@@ -186,16 +243,6 @@
       "name": "Professor John Doe",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
