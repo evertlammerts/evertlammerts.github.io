@@ -1,12 +1,11 @@
 {
   "basics": {
     "name": "Evert Lammerts",
-    "label": "Software Engineering Leadership",
+    "label": "",
     "image": "",
-    "email": "evert@bottledbits.com",
-    "phone": "+31 644034934",
-    "url": "https://evertlammerts.github.io/",
-    "summary": "Curious, hardworking, and dedicated to solving complex problems. I hold a BEng in Software Engineering since 2006. A significant part of the 18+ years as a professional took place in and around labs, supporting, using and occasionally conducting research. But I also spent as much time working in both big and smaller tech, where I designed and built products and services with sometimes broad and other times deep impact, or both at the same time. I feel at home working on distributed systems, large-scale computing and data processing infrastructures, cryptosystems, and mechatronics.",
+    "email": "evert[at]bottledbits[dot]com",
+    "url": "https://evert.online/",
+    "summary": "I'm a curious and product-minded staff-level software engineer, dedicated to- and motivated by solving complex problems (what Seymour Papert called \"<a href=\"https://dailypapert.com/hard-fun/\">hard fun</a>\"). I feel at home in teams working on or with distributed systems, large-scale computing and data processing infrastructures, cryptosystems, and even a little mechatronics. I'm currently available for fixed-term freelance projects.",
     "location": {
       "city": "Amsterdam",
       "countryCode": "NL"
@@ -18,231 +17,147 @@
       "name": "Uber",
       "position": "Engineering Manager",
       "url": "https://www.uber.com/be/en/careers/locations/amsterdam/",
-      "startDate": "2021 Oct",
-      "endDate": "2024 Mar",
-      "summary": "I was manager of the Earnings Data Intelligence team, which is a team of talented backend engineers that is responsible for building and running the systems that power several critical earnings-related features for Uber's earners, i.e. drivers and couriers. Important features include real-time trip earnings summaries and historical earnings reports, but also highly localized earnings forecasts generated using large-scale machine learning pipelines. At the core of the data is a complex taxonomy that models earnings specific to all of the 70+ markets that Uber operates in, allowing Uber and its earners to comply with all rules and regulations specific to the earners locality. As engineering manager I was responsible for all aspects of this team's health, from the psychological safety and personal growth of its members to the team's vision, mission and execution, both tactical and strategical.",
+      "startDate": "2021-10",
+      "endDate": "2024-03",
+      "summary": "I was manager of the Earnings Data Intelligence team, a team of talented backend engineers. The team built and ran the systems that powered several critical earnings-related features for Uber's earners, i.e. drivers and couriers. Important features included real-time trip earnings summaries and historical earnings reports, but also highly localized earnings forecasts generated using large-scale machine learning pipelines. At the core of the data was a complex taxonomy that models earnings specific to all of the 70+ markets that Uber still operates in, allowing Uber and its earners to comply with all rules and regulations specific to the earners locality. As engineering manager I was responsible for all aspects of this team's health, from the psychological safety and personal growth of its members to the team's vision, mission and execution, both tactical and strategical.",
       "highlights": ["Engineering management", "Complex taxonomies", "Mission critical real-time features", "Machine Learning"]
     },
     {
       "name": "Uber",
       "position": "Software Engineer",
       "url": "https://www.uber.com/be/en/careers/locations/amsterdam/",
-      "startDate": "2018 Jul",
-      "endDate": "2021 Oct",
-      "summary": "I was a senior / lead engineer on the Tokenizer team, a small team of ~5 backend engineers and ~4 devops engineers, on its own little hyper secure island. We designed, built and ran Tokenizer, Uber's bank card vault, which held 100s of millions of card numbers, bank account numbers and other tier 1 sensitive PII like SSNs. Tokenizer was (and to my knowledge, still is) on the critical path for both collections (from riders and eaters) and disbursements (to drivers and couriers). Given the very large scale of card processing at Uber, Tokenizer contributed huge savings by not depending on third party vaults and by allowing integrations with many different local card processors and banks around the world, without trading off stability, availability and security (Tokenizer is, of course, PCI compliant and as such is extensively audited every year). I worked on many features of the system over the years, both lower-level system features - e.g. desiging the integration with Uber's service authentication and authorization, making it much easier for upstream systems to use Tokenizer - and higher-level user-facing features - e.g. enabling seamless wallet migration of users' wallets when Uber acquired Postmates.",
-      "highlights": ["PCI compliance", "Cyber security", "Payments"]
+      "startDate": "2018-07",
+      "endDate": "2021-10",
+      "summary": "I was a senior / lead engineer on the Tokenizer team, a small team of ~5 backend engineers and ~4 devops engineers, on its own little hyper secure island. We designed, built and ran Tokenizer, Uber's bank card vault, which held 100s of millions of card numbers, bank account numbers and other tier 1 sensitive PII like SSNs. Tokenizer was (and to my knowledge, still is) on the critical path for both collections (from riders and eaters) and disbursements (to drivers and couriers). Given the very large scale of card processing at Uber, Tokenizer contributed huge savings by not depending on third party vaults and by allowing integrations with many different local card processors and banks around the world, without trading off stability, availability and security (Tokenizer is, of course, PCI compliant and as such is extensively audited every year). I worked on many features of the system over the years, both lower-level system features and higher-level user-facing features. Some example projects I led include the integration with Uber's service authentication and authorization, making it much easier for upstream systems to use Tokenizer; the migration of users' payment cards in their Postmates wallets after Uber acquired Postmates; and building a secure banking API for the Uber Bank project.",
+      "highlights": ["PCI compliance", "Cyber security", "Payments", "Fintech"]
     },
     {
       "name": "Lucipher",
       "position": "Co-founder",
-      "startDate": "2013 Mar",
-      "endDate": "2016 Feb",
-      "summary": "",
+      "url": "https://web.archive.org/web/20160320234046/https://lucipher.net/",
+      "startDate": "2013-03",
+      "endDate": "2016-02",
+      "summary": "Inspired by <a href=\"https://en.wikipedia.org/wiki/Edward_Snowden\">the Snowden leaks</a>, Lucipher was a startup that addressed the need for end-to-end secure and confidential cloud-based file storage and collaboration. The company built and provided an online (NFS-based) file system that could be mounted locally, complete with identity management and exchange, all secured with a hybrid cryptosystem that was completely transparent and could be inspected on the wire. In other words: a verifiably secure, zero-trust system. Lucipher won an IBM innovation prize and was featured in a number of online and printed publications, but was not able to gain enough traction to survive.",
       "highlights": ["Cyber Security", "File Systems", "OpenPGP", "Big Data"]
     },
     {
       "name": "Bottledbits",
-      "position": "Freelance [Engineer | Consultant | TPM]",
-      "startDate": "2013 Mar",
-      "endDate": "2018 Jul",
-      "summary": "",
+      "position": "Freelance [Software Engineer | Consultant | TPM]",
+      "startDate": "2006-06",
+      "endDate": "Present",
+      "summary": "I have done a number of freelance projects for different clients, and in different roles. Some of my clients include FEI Company (now <a href=\"https://www.thermofisher.com/nl/en/home/electron-microscopy.html\">ThermoFisher</a>), <a href=\"https://ing.com/\">ING</a>'s Global CISO organisation, the <a href=\"https://www.amsterdam.nl/bestuur-organisatie/organisatie/overige/datalab-amsterdam/\">Datalab</a> of City of Amsterdam, the Department of Traffic Management of the City of The Hague, the <a href=\"https://irlab.science.uva.nl/about/information-and-language-processing-systems-group/\">Information and Language Processing Systems (ILPS) group</a> at the University of Amsterdam, and others. See the projects section below for a selection of some of the more prominent work.",
       "highlights": ["Cyber Security", "Big Data", "Intrusion Detection", "Open Gov Data"]
     },
     {
       "name": "SARA / SURFSara / SURF",
-      "position": "Freelance [Engineer | Consultant | TPM]",
-      "startDate": "2008 Oct",
-      "endDate": "2013 Mar",
-      "summary": "",
-      "highlights": ["HPC", "Supercomputing", "Hadoop", "Big Data", "Science"]
+      "url": "https://surfsara.nl/",
+      "position": "Scientific consultant",
+      "startDate": "2008-10",
+      "endDate": "2013-03",
+      "summary": "SARA, now part of SURF, is the Dutch national centre for high-performance computing (HPC) and owns all national scientific computing infrastructure. At SARA I worked with academic researchers across different disciplines, including High Energy Physics, Astronomy, Bioinformatics, Information Retrieval, Ecology, and others. It was my job to help solve very large-scale computational problems on some of the largest distributed systems in the world. In 2010, with national funding, I created a new team to build what was then the largest Hadoop cluster in The Netherlands, to better serve researchers with relatively trivial (often machine learning heavy) processing of extremely large datasets, including genome sequences, web crawls (the complete <a href=\"https://commoncrawl.org/\">Common Crawl</a> and <a href=\"https://lemurproject.org/clueweb09.php/\">ClueWeb'09</a> datasets), and other popular datasets. As part of my work at SARA I organized a number of training events in large-scale scientific computing for (post)grad students and professionals.",
+      "highlights": ["HPC", "Supercomputing", "Hadoop", "Big Data", "Science", "Teaching"]
     }
   ],
   "projects": [
     {
-      "name": "Semanticizer",
-      "summary": "",
-      "highlights": ["Named Entity Recognition", "NLP", "Machine Learning"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    },
-    {
       "name": "Amsterdam AuthZ",
-      "summary": "",
-      "highlights": ["Named Entity Recognition", "NLP", "Machine Learning"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "summary": "An OAuth 2.0 compatible authorization service written in Go. This service: <b>I)</b> implements the implicit flow as described in RFC6749 section 4.2, <b>II)</b> Uses JSON Web Keys (RFC7517) for key management, <b>III)</b>Creates JSON Web Tokens (RFC7519) using HMAC or ECDSA (HS256, HS384, HS512, ES256, ES384, ES512), and <b>IV)</b>Provides interfaces for identity providers, state storage (with implementations for single node in-memory storage and Redis), authorization providers (to map users to scopes) and client registries.",
+      "highlights": ["OAuth 2.0", "Authorization", "Microservices", "Open Gov Data"],
+      "startDate": "2017-07",
+      "endDate": "2018-06",
       "url": "https://amsterdam.github.io/projects/authz/"
     },
     {
-      "name": "ING Intrusion Detection",
-      "summary": "",
+      "name": "Core Intel",
+      "summary": "An intrusion detection system that detects possible malicious activity on the internal ING network using both open- and closed source threat intelligence, and that analyzes traffic patterns of strategically collected, large volumes of Netflow (V5).",
+      "highlights": ["Cyber Security", "Netflow", "Threat detection"],
+      "startDate": "2014-10",
+      "endDate": "2016-03",
+      "url": "https://www.ing.com"
+    },
+    {
+      "name": "Semanticizer",
+      "summary": "A service for real-time semantic linking. It is able to take in a text stream, and return links to online resources (such as Wikipedia) that provide background information on the subject(s) of the input, including heuristic measures that estimate the likelihood of a link being correct. See more background in \"<a href=\"https://s.yimg.com/ge/labs/v2/uploads/oair2013-linking.pdf\">Feeding the Second Screen: Semantic Linking based on Subtitles</a>\" <i>(D. Odijk, E. Meij, M. de Rijke, University of Amsterdam, 2013)</i>.",
       "highlights": ["Named Entity Recognition", "NLP", "Machine Learning"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "startDate": "2012-11",
+      "endDate": "2013-11",
+      "url": "https://web.archive.org/web/20170803054521/http://semanticize.uva.nl/doc/"
     },
     {
       "name": "LifeWatch.eu",
-      "summary": "",
-      "highlights": ["Named Entity Recognition", "NLP", "Machine Learning"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "summary": "I did technical management for LifeWatch-NL, a project within the European Strategy Forum on Research Infrastructures (ESFRI). LifeWatch is a collaborative effort aiming to improve usage of modern technologies within European biodiversity research.",
+      "highlights": ["Research Infrastructure", "Biodiversity", "EU"],
+      "startDate": "2011-03",
+      "endDate": "2013-03",
+      "url": "https://www.lifewatch.eu//"
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "institution": "NHL Stenden",
+      "location": "Netherlands",
+      "url": "https://www.nhlstenden.com/en",
+      "area": "Software Engineering",
+      "studyType": "BEng",
+      "startDate": "2003-02",
+      "endDate": "2006-06"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "institution": "Budapest University of Technology and Engineering",
+      "location": "Hungary",
+      "url": "https://www.bme.hu/en",
+      "area": "Computer Science",
+      "studyType": "Erasmus scholarship, Leonardo scholarship",
+      "startDate": "2004-09",
+      "endDate": "2006-06"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Engineering",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Product-minded engineering and collaboration",
+        "Architecture and system design",
+        "Collaborative execution",
+        "Infrastructure and devops",
+        "Staged CI/CD, monitoring and alerting",
+        "Async, evented and concurrent distributed systems",
+        "Relational, NoSQL, vector and graph databases",
+        "Spark, Hadoop, Kafka, PyTorch",
+        "Unit-, integration- and property-based testing"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Leadership",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Vision and mission",
+        "Interdisciplinary collaborative planning",
+        "Risk mitigation and iterative execution",
+        "Tactical and strategical trade offs",
+        "Incident response and blameless postmortems",
+        "Mentorship and coaching",
+        "Psychological safety and personal growth"
       ]
     }
   ],
-  "references": [
+  "publications": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Life Sciences & The Dutch Grid: An Analysis from a Grid Supporter's Perspective.",
+      "publisher": "IWPLS",
+      "releaseDate": "2009-09-14",
+      "url": "https://ceur-ws.org/Vol-513/paper07.pdf",
+      "summary": "An (in hindsight naive) analysis of the suitability of the LHC Compute Grid for use cases other than High Energy Physics - in this case the life sciences."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Mechatronic systems in sheet metal forming",
+      "publisher": "Proceedings of Manufacturing 2006, Budapest (Gyártás-2006 Konferenciára),",
+      "releaseDate": "2006-11-28",
+      "url": "https://eprints.sztaki.hu/4884/",
+      "summary": "Report on real-time coupling and coordinated controlling (CNC) of two milling machines, within the EU FP7-funded research project <a href=\"https://cordis.europa.eu/project/id/14026/reporting\">SCULPTOR</a>."
     }
   ]
 }
