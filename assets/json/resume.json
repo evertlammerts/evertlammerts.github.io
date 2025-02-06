@@ -5,12 +5,21 @@
     "image": "",
     "email": "evert[at]bottledbits[dot]com",
     "url": "https://evert.online/",
-    "summary": "I'm a curious and product-minded staff-level software engineer, dedicated to- and motivated by solving complex problems (what Seymour Papert called \"<a href=\"https://dailypapert.com/hard-fun/\">hard fun</a>\"). I feel at home in teams working on or with distributed systems, large-scale computing and data processing infrastructures, cryptosystems, and even a little mechatronics. I'm currently available for fixed-term freelance projects.",
+    "summary": "I'm a staff-level software engineer, founder and consultant. I'm curious, product-minded and entrepreneurial, dedicated to- and motivated by solving complex problems that matter (what Seymour Papert called \"<a href=\"https://dailypapert.com/hard-fun/\">hard fun</a>\"). I feel at home in teams working on or with distributed systems, large-scale computing and data processing infrastructures, cryptosystems, and even a little mechatronics. I'm currently available for fixed-term freelance projects.",
     "location": {
       "city": "Amsterdam",
       "countryCode": "NL"
     },
-    "profiles": []
+    "profiles": [{
+      "network": "linkedin",
+      "username": "evertlammerts",
+      "url": "https://www.linkedin.com/in/evertlammerts/"
+    },
+    {
+      "network": "github",
+      "username": "evertlammerts",
+      "url": "https://github.com/evertlammerts/"
+    }]
   },
   "work": [
     {
@@ -37,7 +46,7 @@
       "url": "https://web.archive.org/web/20160320234046/https://lucipher.net/",
       "startDate": "2013-03",
       "endDate": "2016-02",
-      "summary": "Inspired by <a href=\"https://en.wikipedia.org/wiki/Edward_Snowden\">the Snowden leaks</a>, Lucipher was a startup that addressed the need for end-to-end secure and confidential cloud-based file storage and collaboration. The company built and provided an online (NFS-based) file system that could be mounted locally, complete with identity management and exchange, all secured with a hybrid cryptosystem that was completely transparent and could be inspected on the wire. In other words: a verifiably secure, zero-trust system. Lucipher won an IBM innovation prize and was featured in a number of online and printed publications, but was not able to gain enough traction to survive.",
+      "summary": "Inspired by <a href=\"https://en.wikipedia.org/wiki/Edward_Snowden\">the Snowden leaks</a>, Lucipher was a startup that addressed the need for end-to-end secure and confidential cloud-based file storage and collaboration. The company built and provided an online (NFS-based) file system that could be mounted locally, complete with identity management and exchange, all secured with a hybrid cryptosystem that was completely transparent and could be inspected on the wire. In other words: a verifiably secure, zero-trust system. Lucipher won an IBM innovation prize and was featured in a number of online and printed publications, but was not able to gain enough traction to survive. See (Dutch language) interviews in <a href=\"/assets/pdf/ag-artikel.pdf\">Automatiseringsgids</a>, <a href=\"/assets/pdf/ibm_inspire_article.pdf\">IBM Inspire</a> and <a href=\"https://www.computable.nl/2013/06/21/lucipher-wint-innovatiewedstrijd-ibm/\">Computable</a>",
       "highlights": ["Cyber Security", "File Systems", "OpenPGP", "Big Data"]
     },
     {
