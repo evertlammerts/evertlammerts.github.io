@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://evertlammerts.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://evert.online/sitemap.xml
