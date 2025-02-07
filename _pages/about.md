@@ -23,4 +23,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-This is the website Evert Lammerts. 
+My website! For now, just my [resume](/resume) and an [archive of professional outreach](/outreach).
