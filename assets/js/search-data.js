@@ -111,17 +111,6 @@ ninja.data = [{
           window.location.href = "/blog/2024/vega-lite/";
         
       },
-    },{id: "post-a-post-with-geojson",
-      
-        title: "a post with geojson",
-      
-      description: "this is what included geojson code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/geojson-map/";
-        
-      },
     },{id: "post-a-post-with-echarts",
       
         title: "a post with echarts",
@@ -153,17 +142,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2023/tikzjax/";
-        
-      },
-    },{id: "post-a-post-with-bibliography",
-      
-        title: "a post with bibliography",
-      
-      description: "an example of a blog post with bibliography",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/post-bibliography/";
         
       },
     },{id: "post-a-post-with-jupyter-notebook",
@@ -274,17 +252,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2021/diagrams/";
-        
-      },
-    },{id: "post-a-distill-style-blog-post",
-      
-        title: "a distill-style blog post",
-      
-      description: "an example of a distill-style blog post and main elements",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2021/distill/";
         
       },
     },{id: "post-a-post-with-twitter",
