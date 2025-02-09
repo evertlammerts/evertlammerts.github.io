@@ -14,7 +14,7 @@ This is an archive of selected teaching, conferences, interviews, meetups etc I 
 #### <i class="fa-solid fa-hashtag"></i> Cyber Security Sessions, 2015
 _Organiser_
 
-[Meetup](https://www.eventbrite.com/e/cyber-security-sessions-tickets-15298557397) about current research around network anomaly detection. Talks by:
+Meetup about current research around network anomaly detection. Talks by:
 - **[Rick Hofstede](https://www.linkedin.com/in/rhofstede/)** (PhD student, University of Twente) "_Challenges and Recent Advances in Flow-based Intrusion Detection_"
 - **[Ömer Yüksel](https://www.linkedin.com/in/omersyuksel/)** (PhD student, Eindhoven University of Technology): "_Combining Anomaly-based Detection Methods with Deep Protocol Inspection_"
 
