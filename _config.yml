@@ -197,6 +197,7 @@ exclude:
   - _pages/publications.md
   - _pages/profiles.md
   - _pages/repositories.md
+  - _pages/news.md
   - _posts/*.md
   - _projects/*.md
   - _news/*.md
