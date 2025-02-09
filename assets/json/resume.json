@@ -10,16 +10,18 @@
       "city": "Amsterdam",
       "countryCode": "NL"
     },
-    "profiles": [{
-      "network": "linkedin",
-      "username": "evertlammerts",
-      "url": "https://www.linkedin.com/in/evertlammerts/"
-    },
-    {
-      "network": "github",
-      "username": "evertlammerts",
-      "url": "https://github.com/evertlammerts/"
-    }]
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "evertlammerts",
+        "url": "https://www.linkedin.com/in/evertlammerts/"
+      },
+      {
+        "network": "github",
+        "username": "evertlammerts",
+        "url": "https://github.com/evertlammerts/"
+      }
+    ]
   },
   "work": [
     {
