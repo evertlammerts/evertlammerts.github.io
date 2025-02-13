@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-This is an archive of selected teaching, conferences, interviews, meetups etc I have been involved with. After 2015 my work changed and so did my involvement in these activities (and to be fair: most of this work was extracurricular, and becoming a parent for the first time in 2014 did not leave much extra space). I'm still fondly looking back at this work though, and am sure that some time in the future I will do more of it again.
+This is a curated archive of my engagements in teaching, conferences, interviews, meetups, and other related events. After 2015 my work changed and so did my involvement in these activities (and to be fair: most of this work was extracurricular, and becoming a parent for the first time in 2014 did not leave much extra space). I'm still fondly looking back at this work though, and am sure that some time in the future I will do more of it again.
 
 ---
 
