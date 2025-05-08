@@ -25,6 +25,14 @@
   },
   "work": [
     {
+      "name": "DuckDB Labs",
+      "position": "Software Engineer",
+      "url": "https://duckdblabs.com",
+      "startDate": "2025-05",
+      "summary": "Working on the DuckDB Python package",
+      "highlights": ["Databases", "CPython"]
+    },
+    {
       "name": "Uber",
       "position": "Engineering Manager",
       "url": "https://www.uber.com/be/en/careers/locations/amsterdam/",
